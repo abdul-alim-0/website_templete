@@ -16,12 +16,12 @@
 ---  
 <br>  
 
-For more Website Follow Me ➡️ [GitHub](https://linkedin.com/in/abdul-alim-0)<br><br>  
+For more Website Follow Me ➡️ [GitHub](https://github.com/abdul-alim-0)<br><br>  
 
 
 <h1 align="center"> Website Preview </h1>  
 
-### For Live Overview ➡️ [Website Template](https://abdul-alim-0.github.io/Portfolio-Website/)<br><br>  
+### For Live Overview ➡️ [Website Template](https://abdul-alim-0.github.io/website_templete/)<br><br>  
 
 #### Navigation Bar 
 <img src="./web_image/image 0.png" width="900">

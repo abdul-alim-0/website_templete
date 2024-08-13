@@ -934,8 +934,8 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     /* background-color: #F8F9FA; */
     background: linear-gradient(to left, #ff0505, #02f2fa);
     color: black;
